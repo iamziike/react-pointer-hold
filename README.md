@@ -1,2 +1,1 @@
-# react-pointerhold
-# react-pointerhold
+# react-pointer-hold

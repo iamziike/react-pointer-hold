@@ -1,5 +1,5 @@
 {
-  "name": "react-pointerhold",
+  "name": "react-pointer-hold",
   "version": "1.0.0",
   "description": "A small utility library to simulate a pointer hold event",
   "main": "dist/index.js",
@@ -9,7 +9,7 @@
   "files": [
     "dist"
   ],
-  "repository": "git+https://github.com/iamziike/react-pointerhold.git",
+  "repository": "git+https://github.com/iamziike/react-pointer-hold.git",
   "keywords": [
     "pointer hold",
     "events",
@@ -20,9 +20,9 @@
   "author": "iamziike",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/iamziike/react-pointerhold/issues"
+    "url": "https://github.com/iamziike/react-pointer-hold/issues"
   },
-  "homepage": "https://github.com/iamziike/react-pointerhold#readme",
+  "homepage": "https://github.com/iamziike/react-pointer-hold#readme",
   "devDependencies": {
     "@types/react": "^18.0.14",
     "@typescript-eslint/eslint-plugin": "^5.29.0",
