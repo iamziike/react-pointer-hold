@@ -7,13 +7,13 @@ A small utility library to simulate a pointerhold event in React
 ### npm
 
 ```sh
-npm i react-pointerhold
+npm i react-pointer-hold
 ```
 
 ### yarn
 
 ```sh
-yarn add react-pointerhold
+yarn add react-pointer-hold
 ```
 
 ## Usage
